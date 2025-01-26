@@ -9,6 +9,14 @@
   }
   
   @font-face {
+    font-family: 'Fantasy';
+    src: url('FantasyFont1-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  @font-face {
     font-family: 'PressStart2P';
     src: url('PressStart2P-Regular.woff') format('woff');
     font-weight: normal;
